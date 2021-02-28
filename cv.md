@@ -19,7 +19,7 @@ I am a punctual and motivated individual who is able to work in a busy environme
 
 #### 5.Samples of code
 
-#####Javascript　
+Javascript　
 
 ```javascript
 	var suma = +prompt("Please enter the deposit amount in dollars: ");
@@ -30,7 +30,7 @@ for( var year = 1; year <= 5; year++) {
 	document.write("The amount of the deposit for " + year + " year: " + deposit.toFixed(2) + " dollars. <br />") ;
 	}
 ```
-#####Html　
+Html　
 ```html
 <!DOCTYPE html>
 <html>
